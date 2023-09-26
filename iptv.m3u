@@ -1,23 +1,67 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Filmes: Animação" ,Kung Fu Panda (2008)
+#EXTINF:0 group-title="Canais: Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TV_Brasil_2023.png/revision/latest/scale-to-width-down/300?cb=20230801234250" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/ba/TV_Brasil_2023.png/revision/latest/scale-to-width-down/300?cb=20230801234250" ,TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Gov.png/revision/latest/scale-to-width-down/300?cb=20230801235249" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Gov.png/revision/latest/scale-to-width-down/300?cb=20230801235249" ,Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" ,RedeTV!
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/200?cb=20200629185600" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/200?cb=20200629185600" ,TV Jornal
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" ,TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" ,TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TNT_Sports_3.svg/revision/latest/scale-to-width-down/300?cb=20210117042730" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/3/35/TNT_Sports_3.svg/revision/latest/scale-to-width-down/300?cb=20210117042730" ,TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704072048" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704072048" ,TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/TNT_Sports_5_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718053007" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f2/TNT_Sports_5_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718053007" ,TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:0 group-title="Canais: Estilo de Vida" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" ,Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0 group-title="Canais: Estilo de Vida" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tastemade_2018.svg/revision/latest/scale-to-width-down/300?cb=20211026210358" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tastemade_2018.svg/revision/latest/scale-to-width-down/300?cb=20211026210358" ,Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Canais: Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest?cb=20211112214721" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/6/67/Cartoonito_logo_2021.svg/revision/latest?cb=20211112214721" ,Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:0 group-title="Canais: Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210726224754" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210726224754" ,Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:0 group-title="Canais: Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/DKids_2021.svg/revision/latest/scale-to-width-down/200?cb=20210508171208" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/0/00/DKids_2021.svg/revision/latest/scale-to-width-down/200?cb=20210508171208" ,Discovery Kids
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8
+#EXTINF:0 group-title="Canais: Notícias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Jovem_Pan_News_logo_2022_2.png/revision/latest/scale-to-width-down/200?cb=20230815161025" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/bf/Jovem_Pan_News_logo_2022_2.png/revision/latest/scale-to-width-down/200?cb=20230815161025" ,Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 group-title="Canais: Notícias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Record_News_2022_%28stacked%29.svg/revision/latest/scale-to-width-down/176?cb=20230507031920" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/8b/Record_News_2022_%28stacked%29.svg/revision/latest/scale-to-width-down/176?cb=20230507031920" ,Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Kung%20Fu%20Panda%20(2008).jpeg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Kung%20Fu%20Panda%20(2008).jpeg?raw=true" ,Kung Fu Panda (2008)
 https://archive.org/download/kung.-fu.-panda.-2008.-hmax.-web-dl/Kung.Fu.Panda.2008.HMAX.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Animação" ,Kung Fu Panda 2 (2011)
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Kung%20Fu%20Panda%202%20(2011).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Kung%20Fu%20Panda%202%20(2011).png?raw=true" ,Kung Fu Panda 2 (2011)
 https://archive.org/download/kung.-fu.-panda.-2.2011.-hmax.-web-dl/Kung.Fu.Panda.2.2011.HMAX.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Animação" ,Procurando Nemo (2003)
-https://archive.org/download/finding.-nemo.-2003.-dsnp.-web-dl/Finding.Nemo.2003.DSNP.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Animação" ,Procurando Dory (2016)
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Finding%20Dory%20(2016).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Finding%20Dory%20(2016).png?raw=true" ,Procurando Dory (2016)
 https://archive.org/download/finding.-dory.-2016.-dsnp.-web-dl/Finding.Dory.2016.DSNP.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Animação" ,Shrek (2001)
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Finding%20Nemo%20(2003).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Finding%20Nemo%20(2003).png?raw=true" ,Procurando Nemo (2003)
+https://archive.org/download/finding.-nemo.-2003.-dsnp.-web-dl/Finding.Nemo.2003.DSNP.WEB-DL.mkv
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%20(2001).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%20(2001).png?raw=true" ,Shrek (2001)
 https://archive.org/download/shrek.-2001.-web-dl/Shrek.2001.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Animação" ,Shrek 2 (2004)
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%202%20(2004).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%202%20(2004).png?raw=true" ,Shrek 2 (2004)
 https://archive.org/download/shrek.-2.2004.-web-dl/Shrek.2.2004.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Comédia" ,Cantando na Chuva (1952)
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%20Forever%20After%20(2010).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%20Forever%20After%20(2010).png?raw=true" ,Shrek para Sempre (2010)
+https://archive.org/download/shrek.-forever.-after.-2010.-web-dl/Shrek.Forever.After.2010.WEB-DL.mkv
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%20the%20Third%20(2007).jpeg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Shrek%20the%20Third%20(2007).jpeg?raw=true" ,Shrek Terceiro (2007)
+https://archive.org/download/shrek.the.-thrid.-2007.-blu-ray/Shrek.the.Thrid.2007.BluRay.mkv
+#EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Puss%20in%20Boots%20(2011).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Puss%20in%20Boots%20(2011).png?raw=true" ,Gato de Botas (2011)
+https://archive.org/download/puss.in.-boots.-2011.-blu-ray/Puss.in.Boots.2011.BluRay.mkv
+#EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Singin'%20in%20the%20Rain%20(1952).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Singin'%20in%20the%20Rain%20(1952).png?raw=true" ,Cantando na Chuva (1952)
 https://archive.org/download/singin.in.the.-rain.-1952.-hmax.-web-dl/Singin%27.in.the.Rain.1952.HMAX.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Comédia" ,Esposa de Mentirinha (2011)
+#EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Just%20Go%20with%20It%20(2011).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Just%20Go%20with%20It%20(2011).jpg?raw=true" ,Esposa de Mentirinha (2011)
 https://archive.org/download/just.-go.with.-it.-2011.-hmax.-web-dl/Just.Go.with.It.2011.HMAX.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Comédia" ,Marley e Eu (2008)
+#EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Marley%20&%20Me%20(2008).jpeg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Marley%20&%20Me%20(2008).jpeg?raw=true" ,Marley e Eu (2008)
 https://archive.org/download/marley..-me.-2008.-hmax.-web-dl/Marley.%26.Me.2008.HMAX.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Comédia" ,O Casamento do Meu Melhor Amigo (1997)
+#EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/My%20Best%20Friend's%20Wedding%20(1997).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/My%20Best%20Friend's%20Wedding%20(1997).png?raw=true" ,O Casamento do Meu Melhor Amigo (1997)
 https://archive.org/download/my.-best.-friends.-wedding.-1997.-hmax.-web-dl_202309/My.Best.Friend%27s.Wedding.1997.HMAX.WEB-DL.mkv
-#EXTINF:0 group-title="Filmes: Drama" ,O Guarda-Costas (1992)
+#EXTINF:0 group-title="Filmes: Drama" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Bodyguard%20(1992).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Bodyguard%20(1992).png?raw=true" ,O Guarda-Costas (1992)
 https://archive.org/download/the.-bodyguard.-1992.-hmax.-web-dl/The.Bodyguard.1992.HMAX.WEB-DL.mkv
+#EXTINF:0 group-title="Filmes: Ficção Científica" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Ghostbusters%20(1984).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Ghostbusters%20(1984).jpg?raw=true" ,Os Caça-Fantasmas (1984)
+https://archive.org/download/ghostbusters.-1984.-hmax.-web-dl/Ghostbusters.1984.HMAX.WEB-DL.mkv
+#EXTINF:0 group-title="Filmes: Ficção Científica" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Ghostbusters%20II%20(1989).jpeg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Ghostbusters%20II%20(1989).jpeg?raw=true" ,Os Caça-Fantasmas 2 (1989)
+https://archive.org/download/ghostbusters.-ii.-1989.-hmax.-web-dl/Ghostbusters.II.1989.HMAX.WEB-DL.mkv
