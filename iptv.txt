@@ -55,12 +55,13 @@ ext,MTV Drag,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/chan
 ext,MTV Jovens e Mães,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ext,MTV Pluto TV,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ext,MTV Shore,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+ext,SescTV,https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index1080p.m3u8
 ext,Tastemade Brasil,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ext,TV Nova Nordeste,https://acesso.ecast.site:3675/live/novatvlive.m3u8
 
 group,Filmes: Animação
 avi,A Princesa Encantada - Era uma Vez?,https://archive.org/download/the.-swan.-princess.-a.-fairytale.-is.-born.-2023.-hmax.-web-dl/The.Swan.Princess.A.Fairytale.Is.Born.2023.HMAX.WEB-DL.mkv
-avi,Angry Birds - O Filme,https://archive.org/download/angry.-birds.-the.-movie.-2016.-web-dl/Angry.Birds.The.Movie.2016.WEB-DL.mkv
+avi,Angry Birds - O Filme,https://archive.org/download/the.-angry.-birds.-movie.-2016.-web-dl/The.Angry.Birds.Movie.2016.WEB-DL.mkv
 avi,Gato de Botas,https://archive.org/download/puss.in.-boots.-2011.-blu-ray/Puss.in.Boots.2011.WEB-DL.mkv
 avi,Gato de Botas 2: O Último Pedido,https://archive.org/download/puss.in.-boots.-the.-last.-wish.-2022.-web-dl/Puss.in.Boots.The.Last.Wish.2022.WEB-DL.mkv
 avi,Hotel Transilvânia,https://archive.org/download/hotel.-transylvania.-2012.-hmax.-web-dl_202309/Hotel.Transylvania.2012.HMAX.WEB-DL.mkv
