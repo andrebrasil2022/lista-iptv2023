@@ -102,6 +102,7 @@ avi,Karatê Kid - A Hora da Verdade,https://archive.org/download/the.-karate.-ki
 avi,Karatê Kid 2 - A Hora da Verdade Continua,https://archive.org/download/the.-karate.-kid.-part.-ii.-1986.-hmax.-web-dl/The.Karate.Kid.Part.II.1986.HMAX.WEB-DL.mkv
 avi,Karatê Kid 3 - O Desafio Final,https://archive.org/download/the.-karate.-kid.-part.-iii.-1989.-hmax.-web-dl/The.Karate.Kid.Part.III.1989.HMAX.WEB-DL.mkv
 avi,O Guarda-Costas,https://archive.org/download/the.-bodyguard.-1992.-hmax.-web-dl/The.Bodyguard.1992.HMAX.WEB-DL.mkv
+avi,Os Embalos de Sábado à Noite,https://archive.org/download/saturday.-night.-fever.-1977.-blu-ray/Saturday.Night.Fever.1977.BluRay.mkv
 avi,Top Gun - Ases Indomáveis,https://archive.org/download/top.-gun.-1986.-strp.-web-dl/Top.Gun.1986.STRP.WEB-DL.mkv
 
 group,Filmes: Ficção Científica
@@ -109,4 +110,5 @@ avi,Os Caça-Fantasmas,https://archive.org/download/ghostbusters.-1984.-hmax.-we
 avi,Os Caça-Fantasmas 2,https://archive.org/download/ghostbusters.-ii.-1989.-hmax.-web-dl/Ghostbusters.II.1989.HMAX.WEB-DL.mkv
 
 group,Filmes: Romance
+avi,Embalos a Dois,https://archive.org/download/two.of.a.-kind.-1983.-web-dl/Two.of.a.Kind.1983.WEB-DL.mkv
 avi,Um Lugar Chamado Notting Hill,https://archive.org/download/notting.-hill.-1999.-strp.-web-dl/Notting.Hill.1999.STRP.WEB-DL.mkv
