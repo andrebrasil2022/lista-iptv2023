@@ -1,22 +1,26 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Canais: Aberta" tvg-name="Canal Gov" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Gov.png/revision/latest/scale-to-width-down/300?cb=20230801235249" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Gov.png/revision/latest/scale-to-width-down/300?cb=20230801235249" ,Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" ,RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RFTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" ,RFTV
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1094300645.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="SBT Interior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Diversa" tvg-logo="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" tvg-logo-small="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" ,TV Diversa
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Gazeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" ,TV Gazeta
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Jornal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/200?cb=20200629185600" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/200?cb=20200629185600" ,TV Jornal
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Jornal Caruaru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/200?cb=20200629185600" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/56/Tvjornalpe2015.png/revision/latest/scale-to-width-down/200?cb=20200629185600" ,TV Jornal Caruaru
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Agro Brasil TV" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" tvg-logo-small="https://listaiptv.gratis/logos/imagens/agrocanal.png" ,Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" ,Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
 #EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Canal Rural" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" ,Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:0 group-title="Canais: Educativos" tvg-name="TV Brasil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TV_Brasil_2023.png/revision/latest/scale-to-width-down/300?cb=20230801234250" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/ba/TV_Brasil_2023.png/revision/latest/scale-to-width-down/300?cb=20230801234250" ,TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="Canais: Educativos" tvg-name="Canal Educação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" ,Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 group-title="Canais: Educativos" tvg-name="TV Cultura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Cultura_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20171125215011" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/82/Cultura_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20171125215011" ,TV Cultura
 https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 #EXTINF:0 group-title="Canais: Educativos" tvg-name="TV Encontro das Águas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6b/Logotipo_da_TV_Encontro_das_%C3%81guas.png/300px-Logotipo_da_TV_Encontro_das_%C3%81guas.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6b/Logotipo_da_TV_Encontro_das_%C3%81guas.png/300px-Logotipo_da_TV_Encontro_das_%C3%81guas.png" ,TV Encontro das Águas
@@ -61,6 +65,16 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:0 group-title="Canais: Notícias" tvg-name="Record News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Record_News_2022_%28stacked%29.svg/revision/latest/scale-to-width-down/176?cb=20230507031920" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/8b/Record_News_2022_%28stacked%29.svg/revision/latest/scale-to-width-down/176?cb=20230507031920" ,Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:0 group-title="Canais: Pública" tvg-name="Canal Gov" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Gov.png/revision/latest/scale-to-width-down/300?cb=20230801235249" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Gov.png/revision/latest/scale-to-width-down/300?cb=20230801235249" ,Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="Canais: Pública" tvg-name="TV Brasil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TV_Brasil_2023.png/revision/latest/scale-to-width-down/300?cb=20230801234250" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/ba/TV_Brasil_2023.png/revision/latest/scale-to-width-down/300?cb=20230801234250" ,TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="Canais: Pública" tvg-name="TV Câmara" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Marca_TV_C%C3%A2mara_-_2018.png/revision/latest/scale-to-width-down/200?cb=20221202220134" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/8e/Marca_TV_C%C3%A2mara_-_2018.png/revision/latest/scale-to-width-down/200?cb=20221202220134" ,TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0 group-title="Canais: Pública" tvg-name="TV Justiça" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Tv_camara.png/revision/latest/scale-to-width-down/300?cb=20130112131733" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/96/Tv_camara.png/revision/latest/scale-to-width-down/300?cb=20130112131733" ,TV Justiça
+https://ythlsgo.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:0 group-title="Canais: Pública" tvg-name="TV Senado" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/TV_Senado.svg.png/revision/latest/scale-to-width-down/260?cb=20160504013752" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/a/a2/TV_Senado.svg.png/revision/latest/scale-to-width-down/260?cb=20160504013752" ,TV Senado
+https://ythlsgo.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 #EXTINF:0 group-title="Canais: Variedades" tvg-name="Canal Saúde" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZ6MAO5pgsSJbI0F6wAHEjhcPI00K-F8tVURaSt1Q=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/ytc/APkrFKZ6MAO5pgsSJbI0F6wAHEjhcPI00K-F8tVURaSt1Q=s900-c-k-c0x00ffffff-no-rj" ,Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:0 group-title="Canais: Variedades" tvg-name="Canal UOL" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" tvg-logo-small="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" ,Canal UOL
