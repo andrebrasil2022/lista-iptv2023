@@ -21,6 +21,8 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:0 group-title="Canais: Educativos" tvg-name="Canal Educação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" ,Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:0 group-title="Canais: Educativos" tvg-name="Canal Empreender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sebrae.svg/300px-Sebrae.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sebrae.svg/300px-Sebrae.svg.png" ,Canal Empreender
+https://ythlsgo.onrender.com/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
 #EXTINF:0 group-title="Canais: Educativos" tvg-name="TV Cultura" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Cultura_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20171125215011" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/82/Cultura_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20171125215011" ,TV Cultura
 https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 #EXTINF:0 group-title="Canais: Educativos" tvg-name="TV Encontro das Águas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6b/Logotipo_da_TV_Encontro_das_%C3%81guas.png/300px-Logotipo_da_TV_Encontro_das_%C3%81guas.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6b/Logotipo_da_TV_Encontro_das_%C3%81guas.png/300px-Logotipo_da_TV_Encontro_das_%C3%81guas.png" ,TV Encontro das Águas
@@ -37,6 +39,8 @@ https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/p
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w1822620365.m3u8
 #EXTINF:0 group-title="Canais: Entretenimento" tvg-name="TV Nova Play" tvg-logo="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" tvg-logo-small="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" ,TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1026346046.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-name="FIFA+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/FIFA%2B.svg/revision/latest/scale-to-width-down/300?cb=20221126165036" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/0/01/FIFA%2B.svg/revision/latest/scale-to-width-down/300?cb=20221126165036" ,FIFA+
+https://europe-west-hls.mls.mycujoo.tv/fifa-plus/clmjczmao00p50152012cd2gy/720p/playlist.m3u8
 #EXTINF:0 group-title="Canais: Esportes" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" ,TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Canais: Esportes" tvg-name="TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" ,TNT Sports 2
