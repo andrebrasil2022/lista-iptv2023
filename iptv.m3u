@@ -3,6 +3,8 @@
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RFTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" ,RFTV
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1094300645.m3u8
+#EXTINF:0 group-title="Canais: Aberta" tvg-name="SBT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT
+https://simulcast2.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1&aws.sessionId=9623305e-c73c-456a-bd4c-fcd78cce3549
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="SBT Interior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Diversa" tvg-logo="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" tvg-logo-small="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" ,TV Diversa
@@ -10,7 +12,7 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Gazeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" ,TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Jornal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Logotipo_da_TV_Jornal.png/300px-Logotipo_da_TV_Jornal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Logotipo_da_TV_Jornal.png/300px-Logotipo_da_TV_Jornal.png" ,TV Jornal
-https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+https://d3rhmbr9yq9ljg.cloudfront.net/out/v1/4dab2f11ddef44f1ad6e39df6f31d67b/index.mpd
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Jornal Caruaru" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Logotipo_da_TV_Jornal.png/300px-Logotipo_da_TV_Jornal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Logotipo_da_TV_Jornal.png/300px-Logotipo_da_TV_Jornal.png" ,TV Jornal Caruaru
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Agro Brasil TV" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" tvg-logo-small="https://listaiptv.gratis/logos/imagens/agrocanal.png" ,Agro Brasil TV
@@ -41,10 +43,6 @@ https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/p
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w1822620365.m3u8
 #EXTINF:0 group-title="Canais: Entretenimento" tvg-name="TV Nova Play" tvg-logo="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" tvg-logo-small="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" ,TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1026346046.m3u8
-#EXTINF:0 group-title="Canais: Esportes" tvg-name="Premiere" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest/scale-to-width-down/300?cb=20220425152048" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest/scale-to-width-down/300?cb=20220425152048" ,Premiere
-https://sky.hlsjs.ru/sky/premium88/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Canais: Esportes" tvg-name="SporTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/300?cb=20211208021328" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/300?cb=20211208021328" ,SporTV
-https://ddh1.hlsjs.ru/ddh1/premium78/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Canais: Esportes" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" ,TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Canais: Esportes" tvg-name="TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" ,TNT Sports 2
