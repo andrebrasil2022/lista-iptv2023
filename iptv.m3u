@@ -43,6 +43,8 @@ https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/p
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w1822620365.m3u8
 #EXTINF:0 group-title="Canais: Entretenimento" tvg-name="TV Nova Play" tvg-logo="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" tvg-logo-small="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" ,TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1026346046.m3u8
+#EXTINF:0 group-title="Canais: Esportes" tvg-name="Esportes Brasília" tvg-logo="http://www.esportesbrasilia.com.br/noticias/wp-content/uploads/logoeb2017.png" tvg-logo-small="http://www.esportesbrasilia.com.br/noticias/wp-content/uploads/logoeb2017.png" ,Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w847016099.m3u8
 #EXTINF:0 group-title="Canais: Esportes" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest/scale-to-width-down/300?cb=20210117041801" ,TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Canais: Esportes" tvg-name="TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest/scale-to-width-down/300?cb=20210117042357" ,TNT Sports 2
@@ -193,10 +195,14 @@ https://archive.org/download/marley..-me.-2008.-hmax.-web-dl/Marley.%26.Me.2008.
 https://archive.org/download/matilda.-1996.-hmax.-web-dl/Matilda.1996.HMAX.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/My%20Best%20Friend's%20Wedding%20(1997).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/My%20Best%20Friend's%20Wedding%20(1997).png?raw=true" ,O Casamento do Meu Melhor Amigo
 https://archive.org/download/my.-best.-friends.-wedding.-1997.-hmax.-web-dl_202309/My.Best.Friend%27s.Wedding.1997.HMAX.WEB-DL.mkv
+#EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Fantastic%20Mr.%20Fox%20(2009).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Fantastic%20Mr.%20Fox%20(2009).jpg?raw=true" ,O Fantástico Sr. Raposo
+https://archive.org/download/fantastic.-mr.-fox.-2009.-strp.-web-dl/Fantastic.Mr.Fox.2009.STRP.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Goonies%20(1985).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Goonies%20(1985).png?raw=true" ,Os Goonies
 https://archive.org/download/the.-goonies.-1985.-hmax.-web-dl/The.Goonies.1985.HMAX.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Comédia" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Tootsie%20(1982).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Tootsie%20(1982).jpg?raw=true" ,Tootsie
 https://archive.org/download/tootsie.-1982.-hmax.-web-dl/Tootsie.1982.HMAX.WEB-DL.mkv
+#EXTINF:0 group-title="Filmes: Drama" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Bible...%20In%20the%20Beginning%20(1966).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Bible...%20In%20the%20Beginning%20(1966).jpg?raw=true" ,A Bíblia
+https://archive.org/download/the.-bible....-in.-the.-beginning.-1966.-strp.-web-dl/The.Bible....In.The.Beginning.1966.STRP.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Drama" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Karate%20Kid%20(1984).jpeg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Karate%20Kid%20(1984).jpeg?raw=true" ,Karatê Kid - A Hora da Verdade
 https://archive.org/download/the.-karate.-kid.-1984.-hmax.-web-dl/The.Karate.Kid.1984.HMAX.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Drama" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Karate%20Kid%20Part%20II%20(1986).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Karate%20Kid%20Part%20II%20(1986).png?raw=true" ,Karatê Kid 2 - A Hora da Verdade Continua
@@ -217,5 +223,7 @@ https://archive.org/download/ghostbusters.-ii.-1989.-hmax.-web-dl/Ghostbusters.I
 https://archive.org/download/two.of.a.-kind.-1983.-web-dl/Two.of.a.Kind.1983.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Romance" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Grease%20(1978).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Grease%20(1978).jpg?raw=true" ,Grease — Nos Tempos da Brilhantina
 https://archive.org/download/grease.-1978.-blu-ray/Grease.1978.BluRay.mkv
+#EXTINF:0 group-title="Filmes: Romance" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Mamma%20Mia!%20(2008).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Mamma%20Mia!%20(2008).png?raw=true" ,Mamma Mia! - O Filme
+https://archive.org/download/mamma.-mia.-2008.-strp.-web-dl/Mamma.Mia.2008.STRP.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Romance" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Notting%20Hill%20(1999).jpg?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/Notting%20Hill%20(1999).jpg?raw=true" ,Um Lugar Chamado Notting Hill
 https://archive.org/download/notting.-hill.-1999.-strp.-web-dl/Notting.Hill.1999.STRP.WEB-DL.mkv
