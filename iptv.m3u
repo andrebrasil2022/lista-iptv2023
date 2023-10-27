@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" ,RedeTV!
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RFTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" ,RFTV
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1094300645.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="SBT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT
@@ -105,8 +105,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0 group-title="Canais: Variedades" tvg-name="MTV Shore" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" tvg-logo-small="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" ,MTV Shore
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0 group-title="Canais: Variedades" tvg-name="RedeTV! Go" tvg-logo="https://prism.spotlight.agilesvcs.com/v1/proxy?image=https%3A%2F%2Fmedias.prism.agilesvcs.com%2FIMAGES%2F00%2F00%2F00%2F4163_3CBC0CED79D4412E.png&resize=RATIO&format=PNG&height=80" tvg-logo-small="https://prism.spotlight.agilesvcs.com/v1/proxy?image=https%3A%2F%2Fmedias.prism.agilesvcs.com%2FIMAGES%2F00%2F00%2F00%2F4163_3CBC0CED79D4412E.png&resize=RATIO&format=PNG&height=80" ,RedeTV! Go
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
 #EXTINF:0 group-title="Canais: Variedades" tvg-name="Revry Brasil" tvg-logo="https://i.imgur.com/K21P6kb.png" tvg-logo-small="https://i.imgur.com/K21P6kb.png" ,Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:0 group-title="Canais: Variedades" tvg-name="SescTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SescTV_%282013%29.png/300px-SescTV_%282013%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SescTV_%282013%29.png/300px-SescTV_%282013%29.png" ,SescTV
