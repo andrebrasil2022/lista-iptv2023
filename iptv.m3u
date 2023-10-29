@@ -1,7 +1,4 @@
 ﻿#EXTM3U
-################################################################################## CANAIS
-#EXTINF:-1 tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/live-icon.png?raw=true" group-title="CANAIS", [COLOR green]//////////CANAIS//////////[/COLOR]
-https://github.com/andrebrasil2022/lista-iptv2023
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" ,RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
 #EXTINF:0 group-title="Canais: Aberta" tvg-name="RFTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/300px-RFTV_logo_2023.png" ,RFTV
@@ -116,9 +113,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:0 group-title="Canais: Variedades" tvg-name="TV Nova Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LOGO_NOVA_PNG.png/300px-LOGO_NOVA_PNG.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LOGO_NOVA_PNG.png/300px-LOGO_NOVA_PNG.png" ,TV Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-################################################################################## FILMES
-#EXTINF:-1 tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/movie-icon.png?raw=true" group-title="FILMES", [COLOR green]//////////CANAIS//////////[/COLOR]
-https://github.com/andrebrasil2022/lista-iptv2023
 #EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Swan%20Princess%20-%20A%20Fairytale%20Is%20Born%20(2023).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Swan%20Princess%20-%20A%20Fairytale%20Is%20Born%20(2023).png?raw=true" ,A Princesa Encantada - Era uma Vez?
 https://archive.org/download/the.-swan.-princess.-a.-fairytale.-is.-born.-2023.-hmax.-web-dl/The.Swan.Princess.A.Fairytale.Is.Born.2023.HMAX.WEB-DL.mkv
 #EXTINF:0 group-title="Filmes: Animação" tvg-logo="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Angry%20Birds%20Movie%20(2016).png?raw=true" tvg-logo-small="https://github.com/andrebrasil2022/lista-iptv2023/blob/main/cartazes/The%20Angry%20Birds%20Movie%20(2016).png?raw=true" ,Angry Birds - O Filme
